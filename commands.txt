@@ -1,0 +1,19 @@
+Load A, in.txt
+Remove A, 2, 7
+Rand B, 10, 1, 8
+Print B, all
+Copy A, 4, 10, B
+Print B, all
+Print A, all
+Shuffle A
+Concat A, B
+Stats A
+Stats B
+Print A, all
+Sort A -
+Sort B +
+Print A, 3
+Print A, 4, 16
+Free A
+Save B, out.txt
+Save A, out1.txt
